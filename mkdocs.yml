@@ -1,0 +1,13 @@
+site_name: Sathvick Srinath
+site_author: Sathvick Bindinganavale Srinath
+site_description: I'm Sathvick, a Mechatronics graduate student from THWS, Germany with a focus and interest in software engineering, automation and data science.
+theme:
+  name: material
+  logo: img/graduate_icon.ico
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Home: index.md
+  - Projects:
+    - CinesphereX : projects/cinespherex.md
