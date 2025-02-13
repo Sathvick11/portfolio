@@ -61,19 +61,6 @@ Main Courses:
 
 ---
 
-## <ins>Projects</ins>
-### **[Artist Insight Hub](projects/artist-insight-hub.md)**
-A web application that provides insights into artists, their discography, and their popularity.
-
-
-### **[CineSphere](projects/cinespherex.md)**
-A web application that provides insights into desired movies.
-
-### **[Resistor Reel Cutter Machine](projects/resistor-reel-cutter-machine.md)**
-A machine that automates the cutting of desired number of reel components.
-
----
-
 ## <ins>Skills</ins>
 - Programming Languages: <br>
     Python, C++, Batch Scripting, YAML, SystemVerilog, HTML, CSS, MATLAB, LaTeX
@@ -83,6 +70,7 @@ Git, Docker, JIRA, Confluence, VSCode, OpenShift, REST API, CI/CD
 Ansys optiSLang, Simulink, PSpice, Fusion360, PTC Creo
 
 ---
+## <ins>Contact</ins>
 You can also find me on
 
 [![email](https://img.icons8.com/fluency/96/filled-message.png)](mailto:sathvicksrinath@gmail.com) [![linkedin](https://img.icons8.com/fluency/96/linkedin.png)](https://www.linkedin.com/in/sathvicksrinath/) [![github](https://img.icons8.com/fluency/96/github.png)](https://github.com/Sathvick11) 
