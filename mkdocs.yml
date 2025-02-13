@@ -10,4 +10,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Projects:
+    - Artist Insight Hub : projects/artist-insight-hub.md
     - CinesphereX : projects/cinespherex.md
+    - Resisrtor Reel Cutter Machine : projects/resistor-reel-cutter-machine.md
