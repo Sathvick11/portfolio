@@ -12,4 +12,6 @@ nav:
   - Projects:
     - Artist Insight Hub : projects/artist-insight-hub.md
     - CinesphereX : projects/cinespherex.md
-    - Resisrtor Reel Cutter Machine : projects/resistor-reel-cutter-machine.md
+    - Resistor Reel Cutter Machine : projects/resistor-reel-cutter-machine.md
+    - AI Chatbot : ai_chatbot.md
+  - Certifications: certifications/certifications.md
